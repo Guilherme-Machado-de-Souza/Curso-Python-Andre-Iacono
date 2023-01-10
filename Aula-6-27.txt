@@ -1,0 +1,13 @@
+# Multiple comparison Operators (Multiplos operadores de comparação)
+
+
+# Variável 
+
+valor = 28
+
+# If = condição da variável
+
+if 20 <= valor < 40:
+  print('Produto aceito')
+else:
+  print('Produto não aceito')
